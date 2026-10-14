@@ -1,1 +1,1 @@
-<img src="./cat.gif" alt="A cat waking up Sakuta" width="500">
+<img src="./cat.gif" alt="A cat waking up Sakuta" width="100%">
